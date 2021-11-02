@@ -1,0 +1,9 @@
+C:\Users\Renat\OneDrive\Documentos\ProjectsWeb\dotNet Core FS\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.csprojAssemblyReference.cache
+C:\Users\Renat\OneDrive\Documentos\ProjectsWeb\dotNet Core FS\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Renat\OneDrive\Documentos\ProjectsWeb\dotNet Core FS\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.AssemblyInfoInputs.cache
+C:\Users\Renat\OneDrive\Documentos\ProjectsWeb\dotNet Core FS\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.AssemblyInfo.cs
+C:\Users\Renat\OneDrive\Documentos\ProjectsWeb\dotNet Core FS\ProAgil.Domain\bin\Debug\netstandard2.0\ProAgil.Domain.deps.json
+C:\Users\Renat\OneDrive\Documentos\ProjectsWeb\dotNet Core FS\ProAgil.Domain\bin\Debug\netstandard2.0\ProAgil.Domain.dll
+C:\Users\Renat\OneDrive\Documentos\ProjectsWeb\dotNet Core FS\ProAgil.Domain\bin\Debug\netstandard2.0\ProAgil.Domain.pdb
+C:\Users\Renat\OneDrive\Documentos\ProjectsWeb\dotNet Core FS\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.dll
+C:\Users\Renat\OneDrive\Documentos\ProjectsWeb\dotNet Core FS\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.pdb

@@ -1,0 +1,12 @@
+C:\Users\Renat\OneDrive\Documentos\ProjectsWeb\dotNet Core FS\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.csprojAssemblyReference.cache
+C:\Users\Renat\OneDrive\Documentos\ProjectsWeb\dotNet Core FS\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Renat\OneDrive\Documentos\ProjectsWeb\dotNet Core FS\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.AssemblyInfoInputs.cache
+C:\Users\Renat\OneDrive\Documentos\ProjectsWeb\dotNet Core FS\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.AssemblyInfo.cs
+C:\Users\Renat\OneDrive\Documentos\ProjectsWeb\dotNet Core FS\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Repository.deps.json
+C:\Users\Renat\OneDrive\Documentos\ProjectsWeb\dotNet Core FS\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Repository.dll
+C:\Users\Renat\OneDrive\Documentos\ProjectsWeb\dotNet Core FS\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Repository.pdb
+C:\Users\Renat\OneDrive\Documentos\ProjectsWeb\dotNet Core FS\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Domain.dll
+C:\Users\Renat\OneDrive\Documentos\ProjectsWeb\dotNet Core FS\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Domain.pdb
+C:\Users\Renat\OneDrive\Documentos\ProjectsWeb\dotNet Core FS\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.csproj.CopyComplete
+C:\Users\Renat\OneDrive\Documentos\ProjectsWeb\dotNet Core FS\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.dll
+C:\Users\Renat\OneDrive\Documentos\ProjectsWeb\dotNet Core FS\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.pdb
